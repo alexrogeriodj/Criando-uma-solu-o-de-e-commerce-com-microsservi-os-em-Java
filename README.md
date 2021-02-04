@@ -1,5 +1,5 @@
 # Arquitetura
-![alt tag](https://github.com/alexrogeriodj/Criando-uma-solu-o-de-e-commerce-com-microsservi-os-em-Java)
+![alt tag](https://github.com/alexrogeriodj/Criando-uma-solu-o-de-e-commerce-com-microsservi-os-em-Java/blob/main/arquitetura-microservices.png)
 
 # Requisitos
 - Postgres 9.3+
